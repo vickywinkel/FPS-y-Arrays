@@ -219,7 +219,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   esAlimento: 0
   valor: 10
-  txtpuntos: {fileID: 920151884}
 --- !u!1 &170076733
 GameObject:
   m_ObjectHideFlags: 0
@@ -644,6 +643,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f44f81ec71e7c94c9431d33add62c7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  txtpuntos: {fileID: 920151884}
 --- !u!33 &1281908238
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -699,9 +699,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d20ec05b58b38c45b2e522ca52750f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  esAlimento: 0
+  esAlimento: 1
   valor: 20
-  txtpuntos: {fileID: 920151884}
 --- !u!1 &1877090277
 GameObject:
   m_ObjectHideFlags: 0
